@@ -153,52 +153,57 @@ namespace calculator
             // 
             // button_plus
             // 
+            this.button_plus.BackColor = System.Drawing.Color.Gold;
             this.button_plus.Location = new System.Drawing.Point(195, 90);
             this.button_plus.Name = "button_plus";
             this.button_plus.Size = new System.Drawing.Size(50, 50);
             this.button_plus.TabIndex = 10;
             this.button_plus.Text = "+";
-            this.button_plus.UseVisualStyleBackColor = true;
+            this.button_plus.UseVisualStyleBackColor = false;
             this.button_plus.Click += new System.EventHandler(this.button_plus_Click);
             // 
             // button11
             // 
+            this.button11.BackColor = System.Drawing.Color.Gold;
             this.button11.Location = new System.Drawing.Point(195, 146);
             this.button11.Name = "button11";
             this.button11.Size = new System.Drawing.Size(50, 50);
             this.button11.TabIndex = 11;
             this.button11.Text = "-";
-            this.button11.UseVisualStyleBackColor = true;
+            this.button11.UseVisualStyleBackColor = false;
             this.button11.Click += new System.EventHandler(this.button11_Click);
             // 
             // button12
             // 
+            this.button12.BackColor = System.Drawing.Color.Gold;
             this.button12.Location = new System.Drawing.Point(195, 202);
             this.button12.Name = "button12";
             this.button12.Size = new System.Drawing.Size(50, 50);
             this.button12.TabIndex = 12;
             this.button12.Text = "*";
-            this.button12.UseVisualStyleBackColor = true;
+            this.button12.UseVisualStyleBackColor = false;
             this.button12.Click += new System.EventHandler(this.button12_Click);
             // 
             // button13
             // 
+            this.button13.BackColor = System.Drawing.Color.Gold;
             this.button13.Location = new System.Drawing.Point(195, 258);
             this.button13.Name = "button13";
             this.button13.Size = new System.Drawing.Size(50, 50);
             this.button13.TabIndex = 13;
             this.button13.Text = "/";
-            this.button13.UseVisualStyleBackColor = true;
+            this.button13.UseVisualStyleBackColor = false;
             this.button13.Click += new System.EventHandler(this.button13_Click);
             // 
             // buttonSum
             // 
+            this.buttonSum.BackColor = System.Drawing.Color.Gold;
             this.buttonSum.Location = new System.Drawing.Point(251, 90);
             this.buttonSum.Name = "buttonSum";
             this.buttonSum.Size = new System.Drawing.Size(50, 218);
             this.buttonSum.TabIndex = 14;
             this.buttonSum.Text = "=";
-            this.buttonSum.UseVisualStyleBackColor = true;
+            this.buttonSum.UseVisualStyleBackColor = false;
             this.buttonSum.Click += new System.EventHandler(this.buttonSum_Click);
             // 
             // textBox1
@@ -216,12 +221,13 @@ namespace calculator
             // 
             // button16
             // 
+            this.button16.BackColor = System.Drawing.Color.Red;
             this.button16.Location = new System.Drawing.Point(124, 258);
             this.button16.Name = "button16";
             this.button16.Size = new System.Drawing.Size(50, 50);
             this.button16.TabIndex = 17;
             this.button16.Text = "C";
-            this.button16.UseVisualStyleBackColor = true;
+            this.button16.UseVisualStyleBackColor = false;
             this.button16.Click += new System.EventHandler(this.button16_Click);
             // 
             // labelMinus
