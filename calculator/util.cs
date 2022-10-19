@@ -7,7 +7,7 @@ using System.Windows.Forms;
 
 namespace calculator
 {
-    class util
+    public class util
     {
         string num1 = "", num2 = "", num3 = "";
         int toNextNum = 0;
