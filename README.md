@@ -24,11 +24,15 @@
 ## Юнит-тесты:
 
 <img src="https://raw.githubusercontent.com/grall777/calculatorWinFormLab1Update/master/unitTestsPhoto.PNG" alt="https://raw.githubusercontent.com/grall777/calculatorWinFormLab1Update/master/unitTestsPhoto.PNG">
-<h3>* Для юнит-тестов было использованно расширение xUnit.</h3>
+<h4>Для юнит-тестов было использованно расширение xUnit.</h4>
 <br>
 
-## Краткий обзор уравнения ((1 + 3) * 2):
+## Обзор функционала:
 
 <br>
 <img src="https://raw.githubusercontent.com/grall777/calculatorWinFormLab1Update/master/6xg8s2.gif" alt="https://raw.githubusercontent.com/grall777/calculatorWinFormLab1Update/master/6xg8s2.gif">
-<br>
+<h4>Пример работы калькулятора со сложным выражением вида:</h4>
+
+```
+((1 + 3) * 2) = 8
+```
