@@ -8,6 +8,13 @@
 <h4>Разработка простого калькулятора используя язык программирования c# и winForm. Так же программа проверена с помощью Unit Test.</h4>
 <br>
 
+## Links:
+
+* [Documentation](#documentation)
+* [Appearance](#appearance)
+* [Unit Test](#unit-test)
+* [Functional](#functional)
+
 ## Documentation:
 
 ### [Unit Test](https://learn.microsoft.com/en-us/visualstudio/test/unit-test-basics?view=vs-2022)<br>
@@ -15,19 +22,19 @@
 ### [WinForm](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-6.0)
 <br>
 
-## Внешний вид калькулятора:
+## Appearance:
 
 <br>
 <img src="https://raw.githubusercontent.com/grall777/calculatorWinFormLab1Update/master/photo.PNG" alt="https://raw.githubusercontent.com/grall777/calculatorWinFormLab1Update/master/photo.PNG">
 <br>
 
-## Юнит-тесты:
+## Unit Test:
 
 <img src="https://raw.githubusercontent.com/grall777/calculatorWinFormLab1Update/master/unitTestsPhoto.PNG" alt="https://raw.githubusercontent.com/grall777/calculatorWinFormLab1Update/master/unitTestsPhoto.PNG">
 <h4>Для юнит-тестов было использованно расширение xUnit.</h4>
 <br>
 
-## Обзор функционала:
+## Functional:
 
 <br>
 <img src="https://raw.githubusercontent.com/grall777/calculatorWinFormLab1Update/master/6xg8s2.gif" alt="https://raw.githubusercontent.com/grall777/calculatorWinFormLab1Update/master/6xg8s2.gif">
