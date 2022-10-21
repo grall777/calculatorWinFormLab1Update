@@ -8,6 +8,13 @@
 <h4>Разработка простого калькулятора используя язык программирования c# и winForm. Так же программа проверена с помощью Unit Test.</h4>
 <br>
 
+## Documentation:
+
+### [Unit Test](https://learn.microsoft.com/en-us/visualstudio/test/unit-test-basics?view=vs-2022)<br>
+### [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)<br>
+### [WinForm](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-6.0)
+<br>
+
 ## Внешний вид калькулятора:
 
 <br>
