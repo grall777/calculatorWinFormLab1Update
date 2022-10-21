@@ -4,7 +4,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  <br>
 # Лабораторная работа. Выполнил: **Шибут Владислав**. Группа: 20ИТ-3
-<br>
+
 <h3>Разработка простого калькулятора используя язык программирования c# и winForm. Так же программа проверена с помощью Unit Test.</h3>
 <br>
 
@@ -13,12 +13,10 @@
 <br>
 <img src="https://raw.githubusercontent.com/grall777/calculatorWinFormLab1Update/master/photo.PNG" alt="https://raw.githubusercontent.com/grall777/calculatorWinFormLab1Update/master/photo.PNG">
 <br>
-<br>
 
 ## Юнит-тесты:
 
 <img src="https://raw.githubusercontent.com/grall777/calculatorWinFormLab1Update/master/unitTestsPhoto.PNG" alt="https://raw.githubusercontent.com/grall777/calculatorWinFormLab1Update/master/unitTestsPhoto.PNG">
-<br>
 <h3>* Для юнит-тестов было использованно расширение xUnit.</h3>
 <br>
 
