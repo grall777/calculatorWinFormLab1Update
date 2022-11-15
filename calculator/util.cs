@@ -75,7 +75,7 @@ namespace calculator
                             {
                                 labeMinus.Text = "-";
                             }
-                            num3 = Convert.ToString(sum);
+                            num3 = Convert.ToString(Math.Round(sum, 1));
                             num3 = num3.Replace("-", "");
                             
                             textBox1.Text = num3;
